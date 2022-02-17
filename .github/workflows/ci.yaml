@@ -1,0 +1,7 @@
+#In the name of Allah
+
+name : dart
+on : 
+  push : [ main ]
+
+jobs :

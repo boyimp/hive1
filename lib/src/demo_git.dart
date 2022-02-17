@@ -1,5 +1,5 @@
 //In the name of Allah
 
-void testFunc(){
-  
+void testFunc() {
+  print("Line One");
 }
